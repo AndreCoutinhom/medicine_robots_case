@@ -40,6 +40,15 @@ Com mediação do jornalista Daniel Gonzales, experientes executivos e especiali
 
 * Há esforços para que as tecnologias sejam acessíveis para que as inovações sejam usadas por pessoas com condições financeiras de baixa expressão. 
 
+### Considerações finais
+
+> Os robôs devem vir para fazer coisas que o ser humano NÃO consegue fazer.
+> Precisamos de pessoas para operar os robôs como o HAL e para que eles cumpram seus propósitos.
+>
+> Os robôs NÃO são uma ameaça. Devemos nos unir a eles para que possamos evoluir.
+>
+> O nosso objetivo é que cada pessoa do mundo possa se beneficiar dos dados encontrados e dos robôs médicos, independente de sua condição financeira.
+
 ## Felipe Kitamura - Dasa
 
 ### IA na medicina
@@ -62,6 +71,10 @@ Com mediação do jornalista Daniel Gonzales, experientes executivos e especiali
 * O uso dessa tecnologia pode reduzir o custo da posse de múltiplas máquinas. Com IA uma mesma máquina pode gerar vários dados diferentes.
 * Com o IAs generativas também conseguimos trazer conhecimentos médicos para pacientes de forma adaptada, clara e coesa.
 * Esses modelos possuem conhecimento maior do que a média de médicos. Isso não significa que não hajam médicos com conhecimento maior que os modelos.
+
+### Considerações finais
+
+> Como qualquer ferramenta médica, todo médico precisa conhecer as tecnologias e entender como elas funcionam. Isso vale também para Inteligência Artificial.
 
 ## Giovanni Cerri - InovaHC
 
@@ -86,6 +99,14 @@ Com mediação do jornalista Daniel Gonzales, experientes executivos e especiali
 * Ainda falta conhecimento adequado sobre as informações do paciente. Da mesma forma falta competência para que os tratamentos aconteçam de forma personalizada.
 > Precisamos mudar o foco. De tratamento para prevenção. Levar em consideração o histórico do paciente para incentivá-lo a um estilo de vida saudável, reduzindo o custo de tratamentos.
 
+### Considerações finais
+
+> Temos que formar médicos para o próximo século, e não para o século passado.
+>
+> No futuro as condutas médicas aliadas à tecnologia, pode ser possível tratar doenças antes dos piores sintomas.
+>
+> Temos o potencial para que nossa cultura se molde para prevenir mais do que tratar doenças.
+
 ## Fernando Silveira Filho - Abimed
 
 ### Tecnologia médica no Brasil
@@ -102,5 +123,8 @@ Com mediação do jornalista Daniel Gonzales, experientes executivos e especiali
 
 * Cada real investido em pesquisa em tecnologia. gera 1,5 reais no PIB.
 
+### Considerações finais
+
+> Temos uma perspectiva realista positiva. Continuamos a evoluir tirando medos e receios sobre a tecnologia, mas ainda há dificuldades envolvendo políticas e conceitos éticos para tornar a utilização dessas tecnologias, uma recomendação pública.
 
 ---
