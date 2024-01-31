@@ -112,6 +112,12 @@ Com mediação do jornalista Daniel Gonzales, experientes executivos e especiali
 ### Tecnologia médica no Brasil
 
 * No Brasil há mais de 82 mil medical devices regitrados na ANVISA.
+> A informação acima é bastante delicada. Foi feito um pedido de confirmação pelo Bing. A resposta foi a seguinte:
+>
+> *A afirmação que você mencionou parece ser precisa. [De acordo com Carlos Eduardo Gouvêa, presidente do Conselho de Administração da ABIIS, o Brasil possui mais de 80.000 produtos registrados na Anvisa](https://medicinasa.com.br/futuro-dispositivos-medicos/). Esses produtos incluem uma variedade de dispositivos médicos.
+> [No entanto, é importante notar que a Anvisa atualizou recentemente as regras para a regularização de dispositivos médicos no Brasil](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2022/anvisa-atualiza-regras-para-regularizacao-de-dispositivos-medicos-no-brasil). Essas atualizações podem afetar o número total de dispositivos médicos registrados.
+> [Além disso, a Anvisa mantém um banco de dados aberto com informações sobre dispositivos médicos regularizados e com registro válido](https://dados.anvisa.gov.br/dados/Documenta%C3%A7%C3%A3o_e_Dicion%C3%A1rio_de_Dados_Produto_para_Sa%C3%BAde_V1.0.pdf). Isso permite um maior acesso às informações de dispositivos médicos no Brasil.
+> Por fim, vale ressaltar que o número de dispositivos médicos registrados pode variar ao longo do tempo devido a novos registros, expirações de registros e outras mudanças regulatórias.*
 * O Brasil possui um gap de 6 a 8 anos em comparação a outros países com relação à tecnologia médica.
 
 ### Globalização de tecnologia médica
@@ -122,6 +128,11 @@ Com mediação do jornalista Daniel Gonzales, experientes executivos e especiali
 > Se o valor da inovação na saúde não transparece, a inovação fica restrita.
 
 * Cada real investido em pesquisa em tecnologia. gera 1,5 reais no PIB.
+> A informação acima é bastante delicada. Foi feito um pedido de confirmação pelo Bing. A resposta foi a seguinte:
+> 
+> *A afirmação que você mencionou não é totalmente precisa de acordo com as informações que encontrei. [Segundo um relatório do Ministério da Ciência, Tecnologia e Inovação (MCTI), o Brasil investiu cerca de 1,21% do seu PIB em ciência e tecnologia em 2019](https://valor.globo.com/patrocinado/dino/noticia/2022/09/26/brasil-investe-em-media-1-do-pib-em-ciencia-e-tecnologia.ghtml). No entanto, não consegui encontrar uma fonte confiável que correlacione diretamente cada real investido em pesquisa em tecnologia com um retorno de 1,5 reais no PIB.
+> [No entanto, foi estimado que, no setor agropecuário, cada real investido em pesquisa pode trazer um retorno de 12 a 20 reais](https://mundoagrobrasil.com.br/a-importancia-da-ciencia-e-tecnologia-agro-brasileiro/). Isso mostra o potencial significativo do investimento em pesquisa e desenvolvimento para o crescimento econômico.
+> É importante notar que o impacto do investimento em pesquisa e desenvolvimento no PIB pode variar dependendo de vários fatores, incluindo o setor específico de tecnologia, a eficácia da pesquisa e o ambiente econômico geral. Portanto, seria necessário mais contexto ou detalhes para avaliar a precisão da afirmação original.*
 
 ### Considerações finais
 
